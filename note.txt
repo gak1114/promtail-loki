@@ -1,0 +1,2 @@
+Dashboard Grafana 
+https://grafana.com/grafana/dashboards/13865-fgc-nginx01-web-analytics/
